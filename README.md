@@ -1,5 +1,5 @@
 ## 19AI307 - Object Oriented Programming using Java
 ```
-NAME: AMALJOSH MAADHAV J
-REG NO: 212223230012
+NAME: ROSHINI S
+REG NO: 212223240142
 ```
